@@ -7,4 +7,5 @@ install Nicer Discord
 cd powercord.directory\src\Powercord\themes
 ```
 ```
-git clone
+git clone https://github.com/Official-Hawks/Nicer-Discord.git
+```
