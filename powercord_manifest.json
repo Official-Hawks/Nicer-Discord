@@ -1,0 +1,9 @@
+{
+    "name": "Nicer Discord",
+    "description": "Just some css to make discord a little nicer",
+    "version": "0.1",
+    "author": "ʜᴀᴡᴋꜱ#1337",
+    "theme": "/theme/nd.css",
+    "consent": "false",
+    "license": "MIT"
+}
